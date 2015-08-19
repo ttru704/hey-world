@@ -1,2 +1,2 @@
 # hey-world
-This is new branch, you will see the chnages later. 
+This is new branch, you will see the changes later. 
